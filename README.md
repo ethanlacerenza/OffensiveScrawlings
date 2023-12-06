@@ -1,5 +1,4 @@
-# Offensive Templates Repository
-
+# Scrawlings for Offensive Security
 
 This repository is a comprehensive collection of notes and templates for professionals in the field of Offensive Security, Red Teaming, and Penetration Testing. It is designed to assist security specialists in cataloging their activities, enhancing their knowledge, and streamlining their processes.
 
