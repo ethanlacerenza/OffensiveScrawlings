@@ -1,38 +1,33 @@
-# Offensive Security's Scrawlings
+# OffensiveSecurityScrawlings Readme
 
-This repository is a comprehensive collection of notes and templates for professionals in the field of Offensive Security, Red Teaming, and Penetration Testing. It is designed to assist security specialists in cataloging their activities, enhancing their knowledge, and streamlining their processes.
-
-
-## Contents
-
-The repository primarily contains various categories of notes and templates to help you in your activities:
+![vppki6boyudb1](https://github.com/ethanlacerenza/OffensiveSecurityScrawlings/assets/71321892/2aa178f3-ae57-41f0-9ae3-acb0a48ea8cd)
 
 
+Welcome to OffensiveSecurityScrawlings! This repository is designed to help you set up a secure environment for offensive security purposes. Follow the steps below to get started.
 
-### Tools and Resources
-
-Find recommended tools
-
-- Obsidian tool https://obsidian.md/download
+## Prerequisites
+- Docker
+- Docker Compose
 
 ## Getting Started
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/ethanlacerenza/OffensiveSecurityScrawlings.git
+    ```
 
-1. Clone the repository to your local machine:
+2. **Navigate to the Repository**
+    ```bash
+    cd OffensiveSecurityScrawlings
+    ```
 
-   ```bash
-   git clone git@github.com:ethanlacerenza/OffensiveObsidian-Templates.git
+3. **Run Docker Compose**
+    ```bash
+    docker-compose up
+    ```
 
-Navigate through the categories to find the notes and templates that are relevant to your current project.
+4. **Configure Administration Storage**
+   - Open the web browser and go to the Administration storage section.
+   - Set the local file path to `/data/wiki`.
+   - Trigger an automatic push of the resources.
 
-Customize the templates and adapt the notes to your specific needs.
-
-Contributing
-We encourage contributions from the community to improve this repository. If you have valuable notes, templates, or resources to share, please refer to our contribution guidelines for details on how to get involved.
-
-License
-This repository is available under the MIT License. You are free to use, modify, and share the contents as you see fit while giving appropriate credit.
-
-Support
-If you have questions, suggestions, or encounter issues, please open an issue or contact us.
-
-
+Enjoy your Offensive Security Experience!
