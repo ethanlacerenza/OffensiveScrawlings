@@ -1,4 +1,4 @@
-# OffensiveSecurityScrawlings Readme
+# Offensive's Scrawlings 
 
 ![vppki6boyudb1](https://github.com/ethanlacerenza/OffensiveSecurityScrawlings/assets/71321892/2aa178f3-ae57-41f0-9ae3-acb0a48ea8cd)
 
