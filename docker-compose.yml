@@ -27,7 +27,6 @@ services:
     ports:
       - "80:3000"
     volumes:
-      - ./OffensiveSecurityScrawlings:/path/to/wiki/repository
-
+      - ./Offensive:/data/wiki/
 volumes:
   db-data:
