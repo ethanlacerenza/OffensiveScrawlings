@@ -31,3 +31,7 @@ Welcome to OffensiveSecurityScrawlings! This repository is designed to help you 
    - Trigger an automatic push of the resources.
 
 Enjoy your Offensive Security Experience!
+
+
+https://github.com/ethanlacerenza/OffensiveSecurityScrawlings/assets/71321892/8f78f07b-edbd-451c-8c5d-fac377431413
+
