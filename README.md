@@ -1,6 +1,7 @@
 # Offensive's Scrawlings 
 
 
+![offsc](https://github.com/ethanlacerenza/OffensiveScrawlings/assets/71321892/e29d4aff-fb4c-4a65-9351-e81f2b83270d)
 
 Welcome to OffensiveSecurityScrawlings! This repository is designed to help you set up a secure environment for offensive security purposes. Follow the steps below to get started.
 
