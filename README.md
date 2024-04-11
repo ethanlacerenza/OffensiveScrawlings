@@ -12,7 +12,7 @@ Welcome to OffensiveSecurityScrawlings! This repository is designed to help you 
 ## Getting Started
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ethanlacerenza/OffensiveSecurityScrawlings.git
+    git clone https://github.com/ethanlacerenza/OffensiveScrawlings.git
     ```
 
 2. **Navigate to the Repository**
