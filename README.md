@@ -17,7 +17,7 @@ Welcome to OffensiveSecurityScrawlings! This repository is designed to help you 
 
 2. **Navigate to the Repository**
     ```bash
-    cd OffensiveSecurityScrawlings
+    cd OffensiveScrawlings
     ```
 
 3. **Run Docker Compose**
